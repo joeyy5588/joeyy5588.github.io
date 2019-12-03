@@ -11,6 +11,6 @@ A game implemented with C++ and SDL library. Press SPACE to change direction, an
 
 ![](/images/menu0.png)
 
-[Code]()
+[Code]( https://github.com/joeyy5588/SDL-Stack-Game/tree/master )
 
 [Demo](https://drive.google.com/file/d/0B-Cc0zdxKlJaVElOMk5ENlB0SFk/view?usp=sharing)
