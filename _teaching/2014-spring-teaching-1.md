@@ -8,13 +8,7 @@ date: 2019-09-01
 location: "Taipei, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Designed programming assignments which cover various domains in machine learning.
+- Designed machine learning related handwriting problems, including math theory and induction of algorithms.
+- Provided Hands-on teaching to students.
+- [Course Website][ https://mlta2019fall.github.io/ML-web/Syllabus.html ]

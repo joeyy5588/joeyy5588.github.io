@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-10-01
 venue: 'ICASSP 2020'
 paperurl: 'http://joeyy5588.github.io/files/Incorporate_Multi_modal_Context_for_Improving_User_Intent_Classification_Work__Copy_.pdf'
-citation: 'Richard Tzong-Han Tsaiy Bo-Hao Changy Cheng-Fu Yangz Jeffrey Chiux Hung-yi Leez. (2019). &quot;MULTIMODAL CONVERSATIONAL HELPBOT TO SUPPORT ROBOT ASSEMBLY TASK 1.&quot; <i>Submitted to ICASSP 2020</i>. 1(1).'
+citation: 'Richard Tzong-Han Tsai, Bo-Hao Chang, Cheng-Fu Yang, Jeffrey Chiu, Hung-yi Lee. (2019). &quot;MULTIMODAL CONVERSATIONAL HELPBOT TO SUPPORT ROBOT ASSEMBLY TASK 1.&quot; <i>Submitted to ICASSP 2020</i>.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

@@ -36,11 +36,6 @@ redirect_from:
 - SOFTWARE ENGINEER INTERN 
 	- July 2019 - August 2019
 
-### Machine Learning, Taipei, Taiwan
-
-- TEACHING ASSISTANT 
-	- September 2019 - January 2020
-
 Publications
 ======
   <ul>{% for post in site.publications %}
