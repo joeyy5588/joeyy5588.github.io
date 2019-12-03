@@ -7,6 +7,8 @@ tags:
   - Algorithm
 ---
 
+Watermarking-based Intellectual Property Core Protection Scheme
+
 The final project of *Algorithm*
 
 ICCAD 2018 CAD Contest Watermarking-based Intellectual Property Core Protection Scheme 
