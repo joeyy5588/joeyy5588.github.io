@@ -13,29 +13,33 @@ redirect_from:
 
 # Education
 
-### National Taiwan University Taipei, Taiwan
+### National Taiwan University, Taipei, Taiwan
 
-B.S. IN ELECTRICAL ENGINEERING September 2016 - Expected June 2020
+- B.S. IN ELECTRICAL ENGINEERING September 2016 - Expected June 2020
 
 # Research Experience
 
-### NTU IOX Center Taipei, Taiwan
+### NTU IOX Center, Taipei, Taiwan
 
-UNDERGRADUATE RESEARCHER March 2019 - Present
+- UNDERGRADUATE RESEARCHER
+	- March 2019 - Present
 
-### NTU Vision & Learning Lab Taipei, Taiwan
+### NTU Vision & Learning Lab, Taipei, Taiwan
 
-UNDERGRADUATE RESEARCH STUDENT September 2018 - Present
+- UNDERGRADUATE RESEARCH STUDENT 
+	- September 2018 - Present
 
 # Working Experience
 
-### ASUS Intelligent Cloud Services Taipei, Taiwan
+### ASUS Intelligent Cloud Services, Taipei, Taiwan
 
-SOFTWARE ENGINEER INTERN July 2019 - August 2019
+- SOFTWARE ENGINEER INTERN 
+	- July 2019 - August 2019
 
-### Machine Learning Taipei, Taiwan
+### Machine Learning, Taipei, Taiwan
 
-TEACHING ASSISTANT September 2019 - January 2020
+- TEACHING ASSISTANT 
+	- September 2019 - January 2020
 
 Publications
 ======
@@ -52,11 +56,11 @@ Teaching
 
 # Honors & Awards
 
-2017 PublishGEN High School Campus Life ,A comic book about my high school life Tainan, Taiwan
+- 2017 PublishGEN High School Campus Life ,A comic book about my high school life Tainan, Taiwan
 
-2016, 2019 Presidential Award ,Awarded to students with academic performance in the top 5% of their class Taipei, Taiwan
+- 2016, 2019 Presidential Award ,Awarded to students with academic performance in the top 5% of their class Taipei, Taiwan
 
-2018 First Prize, NTD 10,000 ,Institute for Information Industry Enterprise Award at Meichu hackathon 2018 Hsinchu, Taiwan
+- 2018 First Prize, NTD 10,000 ,Institute for Information Industry Enterprise Award at Meichu hackathon 2018 Hsinchu, Taiwan
 
 # Skills
 
