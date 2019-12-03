@@ -7,8 +7,6 @@ tags:
   - NLP
 ---
 
-We designed a system for air pollution sensor in the enterprise/household buildings.
-
 A Course Search Engine based on semantic meanings of query words.
 
 Final Project for *Digital Speech Recognition 2019 Spring*.
