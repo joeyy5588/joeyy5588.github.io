@@ -41,7 +41,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -51,11 +51,15 @@ Teaching
 
 # Honors & Awards
 
-- 2017 PublishGEN High School Campus Life ,A comic book about my high school life Tainan, Taiwan
-
-- 2016, 2019 Presidential Award ,Awarded to students with academic performance in the top 5% of their class Taipei, Taiwan
-
-- 2018 First Prize, NTD 10,000 ,Institute for Information Industry Enterprise Award at Meichu hackathon 2018 Hsinchu, Taiwan
+- 2017 Publish GEN High School Campus Life
+  - A comic book about my high school life 
+  - Tainan, Taiwan
+- 2016, 2019 Presidential Award 
+  - Awarded to students with academic performance in the top 5% of their class 
+  - Taipei, Taiwan
+- 2018 First Prize, NTD 10,000
+  - Institute for Information Industry Enterprise Award at Meichu hackathon 2018 
+  - Hsinchu, Taiwan
 
 # Skills
 
