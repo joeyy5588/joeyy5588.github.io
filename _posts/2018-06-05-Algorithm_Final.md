@@ -11,5 +11,4 @@ The final project of *Algorithm*
 
 ICCAD 2018 CAD Contest Watermarking-based Intellectual Property Core Protection Scheme 
 
-[Code](https://github.com/joeyy5588/Algorithm_2018_Spring_Final )
-
+[Code](https://github.com/joeyy5588/Algorithm_2018_Spring_Final)
