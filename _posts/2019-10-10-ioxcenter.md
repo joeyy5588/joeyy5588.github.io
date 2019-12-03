@@ -1,5 +1,5 @@
 ---
-title: 'Attentional UNet for Form Removal'
+title: 'Multimodal Conversational Helpbot To Support Robot Assembly Task'
 date: 2019-10-10
 permalink: /posts/2019/10/ioxcenter/
 tags:
