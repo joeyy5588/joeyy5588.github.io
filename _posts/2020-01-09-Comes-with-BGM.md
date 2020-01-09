@@ -48,7 +48,7 @@ $ python3 merge.py
 
 ### 5. Code
 
- https://github.com/NTUEE-ESLab/2019-FALL-Comes-with-BGM 
+[code](https://github.com/NTUEE-ESLab/2019-FALL-Comes-with-BGM) 
 
 ### 6. Demo
 
