@@ -14,24 +14,20 @@ author_profile: true
 
 <span style='font-size:0.9em'>*Under Review*</span>
 
-&nbsp;
 ### No Look Ahead: Target-free Text-guided Image Manipulation
 <span style='font-size:0.9em'>Wan-Cyuan Fan, **Cheng-Fu Yang**, Qiao-An Yang, Yu-Chiang Frank Wang</span>
 
 <span style='font-size:0.9em'>*Under Review*</span>
 
-&nbsp;
 ### Scene Graph Expansion for Semantics-Guided Image Completion
 <span style='font-size:0.9em'>Qiao-An Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan, Cheng-Yo Tan, Meng-Lin Wu, Yu-Chiang Frank Wang</span>
 
 <span style='font-size:0.9em'>*Under Review*</span>
 
-
-**Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation**
+### Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation
 <span style='font-size:0.9em'>Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang</span>
 
 <span style='font-size:0.9em'>*Accepted to AAAI 2022*</span>
-
 
 
 ## 2021
@@ -40,7 +36,7 @@ author_profile: true
 <span style='font-size:0.9em'>**Cheng-Fu Yang\***, Wan-Cyuan Fan\*, Fu-En Yang and Yu-Chiang Frank Wang.</span>
 
 <span style='font-size:0.9em'>*Accepted to CVPR 2021* [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)</span>
-&nbsp;
+
 ### Multi-modal User Intent Classification Under the Scenario of Smart Factory
 <span style='font-size:0.9em'>Yu-Ching Chiu, Bo-Hao Chang, Tzu-Yu Chen, **Cheng-Fu Yang**, Nanyi Bi, Richard Tzong-Han Tsai, Hung-yi Lee, Jane Yungjen Hsu.</span>
 
