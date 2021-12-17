@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Cheng-Fu Yang"
   avatar           : "joey_b.jpg"
-  bio              : "Senior at National Taiwan University, Dept. of E.E."
+  bio              : "Research assistant at National Taiwan University, Dept. of E.E."
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-TW&view_op=list_works&gmla=AJsN-F6xkDgwUinMUPcclzH8MvpfS73YI5T8bGf-6u8Cdd4dNoEosD0G1N2B4EULSA-maNBpiywVrDFa7uO5EFfzgYjgj6Uv6nydNcCHdKDvWZtjk_MN01Q&user=cJ5oowQAAAAJ"
   email            : "joeyy5588@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/cfyang58"
   vine             :
   weibo            :
   xing             :
