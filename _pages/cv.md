@@ -21,25 +21,25 @@ redirect_from:
 
 ### NTU Vision & Learning Lab
 - Advisor: Prof. Yu-Chiang Frank Wang
-- UNDERGRADUATE RESEARCH STUDENT 
+- Undergraduate researcher 
 	- September 2018 - June 2020
 	
-- RESEARCH ASSISTANT
+- Research Assistant
 	- September 2020 - Present
 	
 ### Collaborative Research Project in Partnership with Google Research
 - Advisor: Prof. Yu-Chiang Frank Wang (NTU EE), Dr. Yun-Hsuang Sung (Google Research), Dr. Da-Cheng Juan (Google Research)
-- RESEARCH PARTICIPANT
+- Research Participant
 	- July 2021 - Present
 	
 ### Collaborative Research Project in Partnership with Carnegie Mellon University
 - Advisor: Prof. Yu-Chiang Frank Wang (NTU EE), Prof. Louis-Philippe Morency (CMU LTI), Prof. Ruslan Salakhutdinov (CMU MLD)
-- RESEARCH PARTICIPANT
+- Research Participant
 	- August 2020 - October 2021
 
 ### NTU IOX Center, Taipei, Taiwan
 - Advisor: Prof. Hung-Yi Lee & Prof. Tzong-Han Tsai
-- UNDERGRADUATE RESEARCHER
+- Undergraduate researcher
 	- March 2019 - Dec 2019
 	
 # Working Experience
