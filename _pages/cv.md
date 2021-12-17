@@ -13,28 +13,38 @@ redirect_from:
 
 # Education
 
-### National Taiwan University, Taipei, Taiwan
+### National Taiwan University
 
 - B.S. IN ELECTRICAL ENGINEERING September 2016 - June 2020
 
 # Research Experience
 
-### NTU Vision & Learning Lab, Taipei, Taiwan
-
+### NTU Vision & Learning Lab
+- Advisor: Prof. Yu-Chiang Frank Wang
 - UNDERGRADUATE RESEARCH STUDENT 
 	- September 2018 - June 2020
 	
 - RESEARCH ASSISTANT
 	- September 2020 - Present
+	
+### Collaborative Research Project in Partnership with Google Research
+- Advisor: Prof. Yu-Chiang Frank Wang (NTU EE), Dr. Yun-Hsuang Sung (Google Research), Dr. Da-Cheng Juan (Google Research)
+- RESEARCH PARTICIPANT
+	- July 2021 - Present
+	
+### Collaborative Research Project in Partnership with Carnegie Mellon University
+- Advisor: Prof. Yu-Chiang Frank Wang (NTU EE), Prof. Louis-Philippe Morency (CMU LTI), Prof. Ruslan Salakhutdinov (CMU MLD)
+- RESEARCH PARTICIPANT
+	- August 2020 - October 2021
 
 ### NTU IOX Center, Taipei, Taiwan
-
+- Advisor: Prof. Hung-Yi Lee & Prof. Tzong-Han Tsai
 - UNDERGRADUATE RESEARCHER
 	- March 2019 - Dec 2019
 	
 # Working Experience
 
-### ASUS Intelligent Cloud Services, Taipei, Taiwan
+### ASUS Intelligent Cloud Services
 
 - SOFTWARE ENGINEER INTERN 
 	- July 2019 - August 2019
