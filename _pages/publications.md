@@ -19,14 +19,13 @@ author_profile: true
 
 Wan-Cyuan Fan, **Cheng-Fu Yang**, Qiao-An Yang, Yu-Chiang Frank Wang
 
-### cene Graph Expansion for Semantics-Guided Image Completion
+### Scene Graph Expansion for Semantics-Guided Image Completion
 *Under Review*
 
 Qiao-An Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan, Cheng-Yo Tan, Meng-Lin Wu, Yu-Chiang Frank Wang
 
 ### Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation
 *Accepted to AAAI 2022*
-
 Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang
 
 ## 2021
