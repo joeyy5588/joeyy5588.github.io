@@ -14,6 +14,6 @@ My research interest lies in the intersection of Computer Vision (CV) and Natura
 
 - **Multimodal Generation**: *Text-to-Image Synthesis*, *Audio-Visual Manipulation*
 - **Multimodal Grounding & Reasoning**: *Image Captioning*, *VQA*, *Vision-and-Language Navigation (VLN)*
-- **Multimodal representation learning**: *Multimodal Contrastive Learning*, *Multimodal Self-Training*
+- **Multimodal Representation Learning**: *Multimodal Contrastive Learning*, *Multimodal Self-Training*
 
 I'm looking for PhD opportunities Fall 2022
