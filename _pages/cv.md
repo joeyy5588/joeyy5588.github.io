@@ -40,7 +40,7 @@ redirect_from:
 	- July 2019 - August 2019
 
 # Teaching
-======
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
