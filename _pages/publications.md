@@ -25,9 +25,11 @@ Wan-Cyuan Fan, **Cheng-Fu Yang**, Qiao-An Yang, Yu-Chiang Frank Wang
 Qiao-An Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan, Cheng-Yo Tan, Meng-Lin Wu, Yu-Chiang Frank Wang
 
 ### Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation
+<span style='font-size:0.9em'>Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang</span>
+
 *Accepted to AAAI 2022*
 
-<span style='font-size:0.8em'>Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang</span>
+
 
 ## 2021
 
