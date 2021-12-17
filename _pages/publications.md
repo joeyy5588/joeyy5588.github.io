@@ -26,7 +26,7 @@ author_profile: true
 
 <span style='font-size:0.9em'>*Under Review*</span>
 
-&nbsp;
+
 **Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation**
 <span style='font-size:0.9em'>Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang</span>
 
@@ -37,11 +37,11 @@ author_profile: true
 ## 2021
 
 ### LayoutTransformer: Scene Layout Generation with Conceptual and Spatial Diversity
-*Accepted to CVPR 2021* [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)
+<span style='font-size:0.9em'>**Cheng-Fu Yang\***, Wan-Cyuan Fan\*, Fu-En Yang and Yu-Chiang Frank Wang.</span>
 
-**Cheng-Fu Yang\***, Wan-Cyuan Fan\*, Fu-En Yang and Yu-Chiang Frank Wang.
-
+<span style='font-size:0.9em'>*Accepted to CVPR 2021* [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)</span>
+&nbsp;
 ### Multi-modal User Intent Classification Under the Scenario of Smart Factory
-*Accepted AAAI 2021 Student Abstract* [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17882)
+<span style='font-size:0.9em'>Yu-Ching Chiu, Bo-Hao Chang, Tzu-Yu Chen, **Cheng-Fu Yang**, Nanyi Bi, Richard Tzong-Han Tsai, Hung-yi Lee, Jane Yungjen Hsu.</span>
 
-Yu-Ching Chiu, Bo-Hao Chang, Tzu-Yu Chen, **Cheng-Fu Yang**, Nanyi Bi, Richard Tzong-Han Tsai, Hung-yi Lee, Jane Yungjen Hsu.
+<span style='font-size:0.9em'>*Accepted AAAI 2021 Student Abstract* [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17882)</span>
