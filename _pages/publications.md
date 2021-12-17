@@ -26,14 +26,15 @@ Qiao-An Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan, Cheng-Yo Tan, Meng-Lin Wu, Yu-Ch
 
 ### Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation
 *Accepted to AAAI 2022*
-Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang
+
+<span style='font-size:0.8em'>Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang</span>
 
 ## 2021
 
 ### LayoutTransformer: Scene Layout Generation with Conceptual and Spatial Diversity
 *Accepted to CVPR 2021* [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html)
 
-**Cheng-Fu Yang***, Wan-Cyuan Fan*, Fu-En Yang and Yu-Chiang Frank Wang.
+**Cheng-Fu Yang\***, Wan-Cyuan Fan\*, Fu-En Yang and Yu-Chiang Frank Wang.
 
 ### Multi-modal User Intent Classification Under the Scenario of Smart Factory
 *Accepted AAAI 2021 Student Abstract* [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17882)
