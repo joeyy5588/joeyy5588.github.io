@@ -9,26 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV  here](http://joeyy5588.github.io/files/Joey_Yang_Resume.pdf)
+[Download full CV  here](http://joeyy5588.github.io/files/Joey_CV.pdf)
 
 # Education
 
 ### National Taiwan University, Taipei, Taiwan
 
-- B.S. IN ELECTRICAL ENGINEERING September 2016 - Expected June 2020
+- B.S. IN ELECTRICAL ENGINEERING September 2016 - June 2020
 
 # Research Experience
-
-### NTU IOX Center, Taipei, Taiwan
-
-- UNDERGRADUATE RESEARCHER
-	- March 2019 - Present
 
 ### NTU Vision & Learning Lab, Taipei, Taiwan
 
 - UNDERGRADUATE RESEARCH STUDENT 
-	- September 2018 - Present
+	- September 2018 - June 2020
+	
+- RESEARCH ASSISTANT
+	- September 2020 - Present
 
+### NTU IOX Center, Taipei, Taiwan
+
+- UNDERGRADUATE RESEARCHER
+	- March 2019 - Dec 2019
+	
 # Working Experience
 
 ### ASUS Intelligent Cloud Services, Taipei, Taiwan
