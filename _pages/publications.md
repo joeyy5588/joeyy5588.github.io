@@ -10,21 +10,21 @@ author_profile: true
 ## 2022
 
 ### Learning Visual-Linguistic Adequacy, Fidelity, and Fluency for Novel Object Captioning
-**Cheng-Fu Yang**, Yao-Hung Hubert Tsai, Wan-Cyuan Fan, Yu-Chiang Frank Wang, Louis-Philippe Morency, Ruslan Salakhutdinov
+<span style='font-size:0.9em'>**Cheng-Fu Yang**, Yao-Hung Hubert Tsai, Wan-Cyuan Fan, Yu-Chiang Frank Wang, Louis-Philippe Morency, Ruslan Salakhutdinov</span>
 
-*Under Review*
+<span style='font-size:0.9em'>*Under Review*</span>
 
 &nbsp;
 ### No Look Ahead: Target-free Text-guided Image Manipulation
-Wan-Cyuan Fan, **Cheng-Fu Yang**, Qiao-An Yang, Yu-Chiang Frank Wang
+<span style='font-size:0.9em'>Wan-Cyuan Fan, **Cheng-Fu Yang**, Qiao-An Yang, Yu-Chiang Frank Wang</span>
 
-*Under Review*
+<span style='font-size:0.9em'>*Under Review*</span>
 
 &nbsp;
 ### Scene Graph Expansion for Semantics-Guided Image Completion
-Qiao-An Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan, Cheng-Yo Tan, Meng-Lin Wu, Yu-Chiang Frank Wang
+<span style='font-size:0.9em'>Qiao-An Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan, Cheng-Yo Tan, Meng-Lin Wu, Yu-Chiang Frank Wang</span>
 
-*Under Review*
+<span style='font-size:0.9em'>*Under Review*</span>
 
 &nbsp;
 **Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation**
