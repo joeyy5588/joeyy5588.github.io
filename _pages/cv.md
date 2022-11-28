@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Download full CV here](http://joeyy5588.github.io/files/joey_cv.pdf)
+
 [Shorter version CV](http://joeyy5588.github.io/files/joey_resume.pdf)
 
 <!-- # Education
