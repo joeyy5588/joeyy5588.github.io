@@ -12,7 +12,7 @@ author_profile: true
 ### Target-free Text-guided Image Manipulation
 <span style='font-size:0.9em'>Wan-Cyuan Fan, **Cheng-Fu Yang**, Qiao-An Yang, Yu-Chiang Frank Wang</span>
 
-<span style='font-size:0.9em'>*Accepted to AAAI 2023 [paper]*</span>
+<span style='font-size:0.9em'>*Accepted to AAAI 2023*</span>
 
 ### Paraphrasing is all you need for Novel Object Captioning
 <span style='font-size:0.9em'>**Cheng-Fu Yang**, Yao-Hung Hubert Tsai, Wan-Cyuan Fan, Yu-Chiang Frank Wang, Louis-Philippe Morency, Ruslan Salakhutdinov</span>
