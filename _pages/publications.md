@@ -9,25 +9,25 @@ author_profile: true
 
 ## 2022
 
-### Learning Visual-Linguistic Adequacy, Fidelity, and Fluency for Novel Object Captioning
-<span style='font-size:0.9em'>**Cheng-Fu Yang**, Yao-Hung Hubert Tsai, Wan-Cyuan Fan, Yu-Chiang Frank Wang, Louis-Philippe Morency, Ruslan Salakhutdinov</span>
-
-<span style='font-size:0.9em'>*Under Review*</span>
-
-### No Look Ahead: Target-free Text-guided Image Manipulation
+### Target-free Text-guided Image Manipulation
 <span style='font-size:0.9em'>Wan-Cyuan Fan, **Cheng-Fu Yang**, Qiao-An Yang, Yu-Chiang Frank Wang</span>
 
-<span style='font-size:0.9em'>*Under Review*</span>
+<span style='font-size:0.9em'>*Accepted to AAAI 2023 [paper]*</span>
+
+### Paraphrasing is all you need for Novel Object Captioning
+<span style='font-size:0.9em'>**Cheng-Fu Yang**, Yao-Hung Hubert Tsai, Wan-Cyuan Fan, Yu-Chiang Frank Wang, Louis-Philippe Morency, Ruslan Salakhutdinov</span>
+
+<span style='font-size:0.9em'>*Accepted to NeurIPS 2022 [paper](https://arxiv.org/abs/2209.12343)*</span>
 
 ### Scene Graph Expansion for Semantics-Guided Image Completion
 <span style='font-size:0.9em'>Qiao-An Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan, Cheng-Yo Tan, Meng-Lin Wu, Yu-Chiang Frank Wang</span>
 
-<span style='font-size:0.9em'>*Under Review*</span>
+<span style='font-size:0.9em'>*Accepted to CVPR 2022* [paper](https://arxiv.org/abs/2205.02958)</span>
 
 ### Cross-Modal Mutual Learning for Audio-Visual Speech Recognition and Manipulation
 <span style='font-size:0.9em'>Chih-Chun Yang, **Cheng-Fu Yang**, Wan-Cyuan Fan and Yu-Chiang Frank Wang</span>
 
-<span style='font-size:0.9em'>*Accepted to AAAI 2022*</span>
+<span style='font-size:0.9em'>*Accepted to AAAI 2022* [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20210)</span>
 
 
 ## 2021
