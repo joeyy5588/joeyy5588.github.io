@@ -16,8 +16,10 @@ My research interest lies in the intersection of Computer Vision (CV) and Natura
 - **Learning reasoning via Interaction**: *Learning VL representations via embodied interactions*, *Learning relation-aware VL representations from video*
 - **Compositionality skills for multimodal generation and reasoning**: *Open-World Image/Video Captioning*, *Language-Conditioned Image Manipulation*
 
-I'm looking for Research Intern opportunities for 2024 Summer.
+I'm looking for Research Intern opportunities for *Summer 2024*.
 
+
+# Publications
 ## 2023
 ### Planning as In-Painting: A Diffusion-Based Embodied Task Planning Framework for Environments under Uncertainty
 <span style='font-size:0.9em'>**Cheng-Fu Yang**, Haoyang Xu, Te-Lin Wu, Xiaofeng Gao, Kai-Wei Chang, Feng Gao</span>
