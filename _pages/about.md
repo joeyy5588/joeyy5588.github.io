@@ -20,14 +20,32 @@ I'm looking for Research Intern opportunities for *Summer 2024*.
 
 
 # Publications
-## 2023
+## 2024
+
+### Re-ReST: Reflection-Reinforced Self-Training for Language Agents
+<span style='font-size:0.9em'>Zi-Yi Dou, **Cheng-Fu Yang**, Xueqing Wu, Kai-Wei Chang, Nanyun Peng</span>
+<span style='font-size:0.9em'>*EMNLP 2024*</span>
+<div>
+  |<a href="https://arxiv.org/abs/2310.12344" target="_blank">paper</a> |
+  <a href="https://github.com/PlusLabNLP/Re-ReST" target="_blank">code</a> |
+</div>
+
+### LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning
+<span style='font-size:0.9em'>Silin Meng, Yiwei Wang,**Cheng-Fu Yang**, Nanyun Peng and Kai-Wei Chang</span>
+<span style='font-size:0.9em'>*EMNLP 2024*</span>
+<div>
+  |<a href="https://arxiv.org/abs/2407.02511" target="_blank">paper</a> |
+</div>
+
 ### Planning as In-Painting: A Diffusion-Based Embodied Task Planning Framework for Environments under Uncertainty
 <span style='font-size:0.9em'>**Cheng-Fu Yang**, Haoyang Xu, Te-Lin Wu, Xiaofeng Gao, Kai-Wei Chang, Feng Gao</span>
-<span style='font-size:0.9em'>*Arxiv 2023*</span>
+<span style='font-size:0.9em'>*NeurIPS OWA Workshop*</span>
 <div>
   |<a href="https://arxiv.org/abs/2310.12344" target="_blank">paper</a> |
   <a href="https://github.com/joeyy5588/planning-as-inpainting" target="_blank">code</a> |
 </div>
+
+## 2023
 
 ### LACMA: Language-Aligning Contrastive Learning with Meta-Actions for Embodied Instruction Following
 <span style='font-size:0.9em'>**Cheng-Fu Yang**, Yen-Chun Chen, Jianwei Yang, Xiyang Dai, Lu Yuan, Yu-Chiang Frank Wang, Kai-Wei Chang</span>
